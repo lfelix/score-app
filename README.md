@@ -7,7 +7,6 @@ O **Score App** é um aplicativo de placar eletrônico para partidas de futebol,
 - 🕒 **Cronômetro integrado**: Sincroniza eventos com o tempo da partida.
 - ⚽ **Registro de eventos**: Gols, gols contra, cartões amarelos e vermelhos.
 - 🏟️ **Lista de jogadores**: Exibe jogadores de ambos os times com fotos.
-- 🎨 **Design moderno**: Interface responsiva com **TailwindCSS**.
 
 ## 🚀 Tecnologias utilizadas
 - **React 19** ⚛️
@@ -15,6 +14,10 @@ O **Score App** é um aplicativo de placar eletrônico para partidas de futebol,
 - **TailwindCSS** 🎨
 - **Vite** ⚡ (para desenvolvimento rápido)
 - **ESLint & Prettier** (padronização de código)
+
+## 🖼️ Imagens do projeto rodando
+![screen-capture.](/public/screencapture.png)
+
 
 ## 📂 Estrutura do projeto
 
