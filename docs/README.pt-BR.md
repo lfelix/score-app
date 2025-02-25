@@ -15,9 +15,8 @@ O **Score App** é um aplicativo de placar eletrônico para partidas de futebol,
 - **Vite** ⚡ (para desenvolvimento rápido)
 - **ESLint & Prettier** (padronização de código)
 
-## 🖼️ Imagens do projeto rodando
-![screen-capture.](/public/screencapture.png)
-
+## 🖼️ Imagens do projeto
+![screen-capture.](../public/screencapture.png)
 
 ## 📂 Estrutura do projeto
 
